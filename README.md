@@ -2,6 +2,17 @@
 
 Dashboard desenvolvido em **Power BI** durante a formação da Alura. Ele analisa as vendas de um pet shop fictício para responder perguntas comerciais: quanto a loja fatura, quem são os clientes e onde estão as melhores oportunidades.
 
+![Dashboard de vendas do Gatito PetShop](imagens/dashboard.png)
+
+## 🔎 Principais números (dez/2020 a dez/2022)
+
+| Faturamento total | Vendas | Média de pets por cliente |
+|---:|---:|---:|
+| **R$ 170,5 mil** | **3 mil** | **2,61** |
+
+- **O faturamento mensal cresceu ao longo do período:** saiu de R$ 1,9 mil em janeiro de 2021 e chegou ao pico de **R$ 12,8 mil** em meados de 2022.
+- **Itaquera é o bairro que mais fatura** (cerca de R$ 60 mil), seguido de Guaianases (cerca de R$ 50 mil). Juntos, os dois bairros concentram a maior parte das vendas da loja.
+
 ## 🎯 Perguntas de negócio
 - Qual é o faturamento total e quantos produtos foram vendidos?
 - Como o faturamento evolui ao longo do tempo (ano, trimestre, mês e dia)?
@@ -34,6 +45,7 @@ Dashboard desenvolvido em **Power BI** durante a formação da Alura. Ele analis
 
 ## 📂 Arquivos
 ```
-├── Dashboard.pbix   # relatório do Power BI
+├── Dashboard.pbix            # relatório do Power BI
+├── imagens/dashboard.png     # print do painel
 └── README.md
 ```
